@@ -1,0 +1,64 @@
+html, body{
+    background-color: #eeee;
+}
+
+h2 {
+  color: black;
+  font-weight: bold;
+  font-size: 2em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+form {
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  padding: 30px;
+  text-align: left;
+  background-color: #fff;
+  width: 20%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  border: 1px solid #c1c0b9;
+  border-radius: 5px;
+  padding: 10px;
+  width: 95%;
+  margin-bottom: 15px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.2s ease-in-out;
+  font-size: 1.2em;
+  background-color: #f5f5f5;
+}
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus {
+  outline: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  padding: 0.5em 1em;
+  font-size: 1.2em;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.7s;
+}
+input[type="submit"]:hover {
+  background: #235784;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
