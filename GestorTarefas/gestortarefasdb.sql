@@ -88,7 +88,7 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`ID_User`, `Username`, `Password`, `Email`) VALUES
 (1, 'joao', 'varela', 'joaovhorny@gmail.com'),
-(2, 'matilde', 'varela', 'matildevideira09@gmail.com'),
+(2, 'matilde', 'varela', 'ma12312312@gmail.com'),
 (14, 'hugo_alexandre', '123', 'yidon48588@charav.com');
 
 --
