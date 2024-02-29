@@ -23,8 +23,5 @@ Este é um projeto de um Gestor de Tarefas simples desenvolvido em PHP e MySQL. 
 ## Contribuição
 Contribuições são bem-vindas! Se encontrar problemas, tiver sugestões de melhorias ou desejar adicionar novos recursos, envie um pull request.
 
-## Licença
-Este projeto está licenciado sob a MIT License.
-
 ## Autor
 João V.
