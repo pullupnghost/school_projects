@@ -23,8 +23,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 3. Abra o projeto numa IDE de preferência (recomendamo Eclipse).
 4. Compile e execute o arquivo Login.java para iniciar o aplicativo.
 
-## Licença
-Este projeto está licenciado sob a Licença MIT.
-
 ## Autor
 João V.
